@@ -1,0 +1,29 @@
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #66090b;
+  color: white;
+  font-size: 20px;
+}
+
+#one {
+  font-size: 20px;
+  margin: 40px 50px auto 50px;
+  text-align: center;
+  font-family: Tahoma, sans-serif;
+}
+
+#two {
+  font-size: 20px;
+  margin: 20px 50px auto 50px;
+  text-align: left;
+  font-family: Tahoma, sans-serif;
+}
+
+#three {
+  padding: 5px;
+  text-align: center;
+  background: #66090b;
+  color: rgb(229, 224, 182);
+  font-size: 12px;
+}
